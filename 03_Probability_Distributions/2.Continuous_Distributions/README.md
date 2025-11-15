@@ -1,4 +1,4 @@
-# 📈 Continuous Probability Distributions
+# 📈 Continuous Probability Distributions 
 
 This folder covers the most important **Continuous Distributions** used in statistics, machine learning, and data science.
 
